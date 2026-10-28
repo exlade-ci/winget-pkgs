@@ -31,7 +31,7 @@ AppsAndFeaturesEntries:
 - DisplayName: Exlade RamDisk
   Publisher: Exlade
   ProductCode: ExladeRamDisk
-ElevationRequirement: elevatesSelf
+ElevationRequirement: elevationRequired
 Installers:
 - Architecture: x64
   InstallerUrl: https://www.exlade.com/downloads/ExladeRamDiskSetup.exe
